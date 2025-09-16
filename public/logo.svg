@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Logo pour AssurLiaison
+  Le dessin représente un bouclier stylisé symbolisant la protection et la confiance,
+  avec deux lignes horizontales évoquant la connexion entre vendeurs et acheteurs.
+  Les couleurs peuvent être adaptées dans le thème Tailwind (voir README).
+-->
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M64 8 L112 32 V80 C112 112 64 120 64 120 C64 120 16 112 16 80 V32 Z" fill="#0E76FD" stroke="#0E76FD" stroke-width="2"/>
+  <path d="M48 56 H80" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M48 72 H80" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+</svg>

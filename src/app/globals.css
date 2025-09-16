@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles can go here. For example we set the default body
+   background and font family. Tailwind will generate the necessary
+   classes at build time. */
+body {
+  @apply bg-white text-gray-900 antialiased;
+}
